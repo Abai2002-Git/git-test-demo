@@ -6,5 +6,7 @@ public class Main {
         System.out.println("第一次提交git，制造冲突");
         System.out.println("第二次提交git，尝试回退");
         System.out.println("第四次提交git，尝试冲突");
+
+        System.out.println("尝试最后一次合并");
     }
 }
